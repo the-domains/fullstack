@@ -1,0 +1,28 @@
+name: FullStack
+favicon: null
+layout_spectrum: 0.682336567202583
+typography_spectrum: 0.3694357224740088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7945498204790056
+  lightness: 0.7398278072942048
+  saturation: 0.9960320182144642
+  rhythmicContrast: 0.4332490027882159
+purpose: []
