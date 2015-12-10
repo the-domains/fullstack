@@ -1,7 +1,7 @@
 name: FullStack
 favicon: null
-layout_spectrum: 0.682336567202583
-typography_spectrum: 0.3694357224740088
+layout_spectrum: 0.92356
+typography_spectrum: 0.82415
 title: Discovering the next convergence in Information Technology and Information Security Automation
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.7945498204790056
-  lightness: 0.7398278072942048
-  saturation: 0.9960320182144642
-  rhythmicContrast: 0.4332490027882159
+    - '#000000'
+    - '#fe0000'
+    - '#ffff00'
+    - '#889101'
+    - '#0038e9'
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 0
 purpose: []
