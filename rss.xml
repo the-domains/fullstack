@@ -4,7 +4,7 @@
         <description><![CDATA[Discovering the next convergence in Information Technology and Information Security Automation]]></description>
         <link>https://thegrid.ai/fullstack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 04:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Dec 2015 04:49:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fullstack/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/fullstack/94d444f7-9157-4604-8abf-f04b082fadb1/index.html</link>
             <guid isPermaLink="false">94d444f7-9157-4604-8abf-f04b082fadb1</guid>
             <pubDate>Thu, 10 Dec 2015 04:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Convergence: Understanding and Aligning Orchestration, Automation, NFV and SDN]]></title>
-            <description><![CDATA[<article><h1>Convergence: Understanding and Aligning Orchestration, Automation, NFV and SDN</h1><p>Looking at what is coming on the horizon for the next big leap in Computing and Network Automation</p></article>]]></description>
-            <link>https://thegrid.ai/fullstack/convergence-understanding-and-aligning-orchestration-autom/index.html</link>
-            <guid isPermaLink="false">e847df43-60c0-4042-9cbd-c97862eab316</guid>
-            <pubDate>Thu, 10 Dec 2015 04:21:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
