@@ -2,12 +2,13 @@ name: FullStack
 favicon: null
 layout_spectrum: 0.682336567202583
 typography_spectrum: 0.3694357224740088
+title: Discovering the next convergence in Information Technology and Information Security Automation
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-71263000-1
   facebook: null
   twitter: null
 opengraph:
