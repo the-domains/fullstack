@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Discovering the next convergence in Information Technology and Information Security Automation]]></title>
-        <description><![CDATA[Discovering the next convergence in Information Technology and Information Security Automation]]></description>
+        <title><![CDATA[Convergence in IT Automation and Orchestration]]></title>
+        <description><![CDATA[Convergence in IT Automation and Orchestration]]></description>
         <link>https://thegrid.ai/fullstack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 04:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 00:13:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fullstack/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>New Year, New Challenges.  </p>]]></description>
+            <link>https://thegrid.ai/fullstack/2be5d111-d404-4f2e-92dd-2df43e066fe8/index.html</link>
+            <guid isPermaLink="false">2be5d111-d404-4f2e-92dd-2df43e066fe8</guid>
+            <pubDate>Thu, 07 Jan 2016 00:12:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Looking for SDN Resources? There are a large number of them.  We aren't going to try to bring them all together here.  That's not efficient.  However, we are going to put out some pointers for those of you who are looking for more information.</p>]]></description>
